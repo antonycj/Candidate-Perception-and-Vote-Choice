@@ -141,4 +141,4 @@ Across all three elections, candidate evaluations remain a **strong and consiste
 
 📊 *This project highlights a full data workflow — from raw data extraction and modeling to visualization and interpretation — reflecting analytical, statistical, and storytelling skills valuable in data science, policy analysis, and research roles.*
 
-📄 [Full Report: Candidate Characteristics and Vote Choice (PDF)](https://github.com/antonycj/Candidate-Perception-and-Vote-Choice/blob/main/Candidate%20Characteristics%20and%20Vote%20Choice.pdf)
+📄 [Full Report: Candidate Characteristics and Vote Choice (PDF)](https://github.com/antonycj/Candidate-Perception-and-Vote-Choice/blob/main/candidate%20characteristics%20and%20vote%20choice.pdf)
